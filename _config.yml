@@ -11,11 +11,12 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown 
-highlighter: rogue 
+highlighter: rouge 
+
 
 
 ### content configuration ###
-title:       "IPDRM16: First International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
+title:       "IPDRM17: Second International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
 keywords:    "hpc, user, Runtimes, Middleware, ipdps17, ipdrm17, ipdrm, supercomputing"
 description: "First workshop on Parallel and distributed runtiems and middleware"
 source_link: "https://github.com/ipdrm/ipdrm.github.io"
