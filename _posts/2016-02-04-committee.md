@@ -5,6 +5,8 @@ color: white
 style: left
 ---
 
+# Organizing Committees
+
 ## General Chairs
 
 * Shuaiwen Leon Song, Pacific Northwest National Laboratory
@@ -21,7 +23,3 @@ style: left
 ## Program Committee
 
 * TBD
-
-## Workshop Program
-
-TBD
