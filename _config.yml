@@ -7,11 +7,11 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore, bck]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown 
-highlighter: rouge 
+#highlighter: rouge 
 
 
 
@@ -20,26 +20,26 @@ title:       "IPDRM17: Second International Workshop on Emerging Parallel and Di
 keywords:    "hpc, user, Runtimes, Middleware, ipdps17, ipdrm17, ipdrm, supercomputing"
 description: "First workshop on Parallel and distributed runtiems and middleware"
 source_link: "https://github.com/ipdrm/ipdrm.github.io"
-#favicon:     "img/favicon.ico"
-#touch_icon:  "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-55665759-3
 
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#ffffff'
-  blue:      '#2a52be'
-  orange:    '#a98625'
-  red:       '#be4c2a'
+#  black:     '#111111'
+#  white:     '#ffffff'
+#  blue:      '#2a52be'
+#  orange:    '#a98625'
+#  red:       '#be4c2a'
   green:     '#377f1c'
-  purple:    '#be2a52'
-  turquoise: '#2a9cbe
+#  purple:    '#be2a52'
+#  turquoise: '#2a9cbe
 
 # Dull pastels
-  # black:     '#111111'
-  # white:     '#ffffff'
-  # blue:      '#779ecb'
+   black:     '#111111'
+   white:     '#ffffff'
+   blue:      '#779ecb'
   # orange:    '#cba477'
   # red:       '#cb7a77'
   # green:     '#9ecb77'
@@ -54,3 +54,6 @@ colors:
   # purple:    '#c869bf'
   # orange:    '#fab125'
   # turquoise: '#0fbfcf'
+
+kramdown:
+   auto_ids: false
