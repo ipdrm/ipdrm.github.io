@@ -16,9 +16,9 @@ highlighter: rogue
 
 ### content configuration ###
 title:       "IPDRM16: First International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
-keywords:    "hpc, user, Runtimes, Middleware, ipdps16, ipdrm16, ipdrm, supercomputing"
+keywords:    "hpc, user, Runtimes, Middleware, ipdps17, ipdrm17, ipdrm, supercomputing"
 description: "First workshop on Parallel and distributed runtiems and middleware"
-source_link: "https://github.com/ipdrm16/ipdrm16.github.io"
+source_link: "https://github.com/ipdrm/ipdrm.github.io"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-55665759-3
