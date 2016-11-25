@@ -27,24 +27,12 @@ google_analytics_key: UA-55665759-3
 
 ### template colors, used site-wide via css ###
 colors:
-#  black:     '#111111'
-#  white:     '#ffffff'
-#  blue:      '#2a52be'
-#  orange:    '#a98625'
-#  red:       '#be4c2a'
   green:     '#377f1c'
-#  purple:    '#be2a52'
-#  turquoise: '#2a9cbe
-
-# Dull pastels
-   black:     '#111111'
-   white:     '#ffffff'
-   blue:      '#779ecb'
-  # orange:    '#cba477'
-  # red:       '#cb7a77'
-  # green:     '#9ecb77'
-  # purple:    '#cb779e'
-  # turquoise: '#77c8cb'
+  black:     '#111111'
+  white:     '#ffffff'
+  blue:      '#779ecb'
+  orange:    '#cba477'
+  turquoise: '#77c8cb'
 
 # Original Bright colors
   # black:     '#111111'
