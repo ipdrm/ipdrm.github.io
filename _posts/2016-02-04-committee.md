@@ -3,8 +3,6 @@ title: "Committees"
 bg: green
 color: white
 style: left
-fa-icon: list-ul
-icon-title: true
 ---
 
 ## General Chairs
