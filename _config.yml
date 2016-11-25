@@ -10,6 +10,8 @@ exclude: [CNAME, README.md, .gitignore, bck]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
+favicon: "img/favico.ico"
+touch_icon: "img/apple-touch-icon.png"
 markdown: kramdown 
 #highlighter: rouge 
 
