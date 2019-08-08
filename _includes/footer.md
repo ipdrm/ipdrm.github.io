@@ -1,4 +1,2 @@
 
-
-Please email <a href="mailto:ipdrm17@easychair.org">ipdrm17@easychair.org</a>
-with questions or concerns.
+Questions, Comments? Please addressed them to joseph.manzano@pnnl.gov
