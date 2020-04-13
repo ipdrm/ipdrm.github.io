@@ -18,8 +18,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "IPDRM19: Third International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
-keywords:    "hpc, user, Runtimes, Middleware, ipdps17, ipdrm17, ipdrm, supercomputing"
+title:       "IPDRM20: Third International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
+keywords:    "hpc, user, Runtimes, Middleware, ipdrm20, ipdrm, supercomputing"
 description: "First workshop on Parallel and distributed runtiems and middleware"
 source_link: "https://github.com/ipdrm/ipdrm.github.io"
 favicon:     "img/favicon.ico"
